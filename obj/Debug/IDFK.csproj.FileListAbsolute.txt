@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\school\computer science\c#\IDFK\IDFK\bin\Debug\IDFK.exe.config
+C:\Users\User\Desktop\school\computer science\c#\IDFK\IDFK\bin\Debug\IDFK.exe
+C:\Users\User\Desktop\school\computer science\c#\IDFK\IDFK\bin\Debug\IDFK.pdb
+C:\Users\User\Desktop\school\computer science\c#\IDFK\IDFK\obj\Debug\IDFK.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\school\computer science\c#\IDFK\IDFK\obj\Debug\IDFK.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\school\computer science\c#\IDFK\IDFK\obj\Debug\IDFK.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\school\computer science\c#\IDFK\IDFK\obj\Debug\IDFK.exe
+C:\Users\User\Desktop\school\computer science\c#\IDFK\IDFK\obj\Debug\IDFK.pdb
